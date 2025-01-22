@@ -2,6 +2,8 @@
 
 This repository contains a Haskell implementation of the Miller-Rabin primality test. This README provides instructions for students who may not have used Haskell before, guiding them through the process of running the `Main.hs` file.
 
+![Miller-Rabin Demo](miller-rabin/miller-rabin.gif)
+
 ## Prerequisites
 To run the Haskell code, you need:
 
