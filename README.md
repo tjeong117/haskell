@@ -19,7 +19,7 @@ To run the Haskell code, you need:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/miller-rabin.git
+   git clone https://github.com/tjeong117/haskell.git
    cd miller-rabin
    ```
 
